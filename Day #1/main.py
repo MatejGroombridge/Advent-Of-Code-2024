@@ -48,4 +48,5 @@ def part2():
     
     return similarityScore
 
+# print(part1())
 print(part2())
